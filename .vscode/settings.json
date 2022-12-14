@@ -1,0 +1,7 @@
+{
+	"typescript.inlayHints.parameterNames.enabled": "none",
+	"typescript.inlayHints.parameterTypes.enabled": false,
+	"typescript.inlayHints.propertyDeclarationTypes.enabled": false,
+	"editor.cursorWidth": 0,
+	"workbench.colorTheme": "SynthWave '84"
+}
